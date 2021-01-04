@@ -2,7 +2,7 @@
 
 Paper to be covered: [Multi-Agent Coverage in Urban Environments](https://arxiv.org/pdf/2008.07436.pdf ). Authors: Shivang Patel, Senthil Hariharan, Pranav Dhulipala, Ming C Lin, Dinesh Manocha, Huan Xu, Michael Otte
 
-**Short Summary**: We use the Multi-Agent Voronoi Cover Algorithm (Patel et al.) to solve perform path-plannign for Persistent Monitoring problem. ((Link to the project)[https://sites.google.com/view/miniproject2/home])
+**Short Summary**: We use the Multi-Agent Voronoi Cover Algorithm (Patel et al.) to solve perform path-plannign for Persistent Monitoring problem. [Link to the project](https://sites.google.com/view/miniproject2/home])
 
 
 Team - Members:      
